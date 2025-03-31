@@ -1,2 +1,2 @@
 #this is ibrahim nazir
-print("chala ja bsdk")
+print("Hello World")
